@@ -3,8 +3,8 @@ package unifi_test
 import (
 	"testing"
 
+	"github.com/chrisparish/unifi"
 	"github.com/stretchr/testify/assert"
-	"github.com/unpoller/unifi"
 )
 
 func TestIPGeoUnmarshalJSON(t *testing.T) {

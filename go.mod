@@ -1,4 +1,4 @@
-module github.com/unpoller/unifi
+module github.com/chrisparish/unifi
 
 go 1.16
 

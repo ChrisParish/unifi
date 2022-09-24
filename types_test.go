@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
+	"github.com/chrisparish/unifi"
 	"github.com/stretchr/testify/assert"
-	"github.com/unpoller/unifi"
 )
 
 func TestFlexInt(t *testing.T) {
